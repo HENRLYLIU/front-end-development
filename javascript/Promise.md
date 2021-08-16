@@ -5,3 +5,14 @@
 ### 生成器
 
 ## 2. Promise初识
+### 2.1 
+```javascript
+let promise=new Promise(function(resolve,reject){
+    resolve();
+});
+promise.then(function(data){
+    // 处理resolve
+},function(err){
+    // 处理reject
+});
+```
