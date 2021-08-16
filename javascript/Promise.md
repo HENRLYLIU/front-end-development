@@ -16,3 +16,5 @@ promise.then(function(data){
     // 处理reject
 });
 ```
+### 2.2 宏任务与微任务
+
