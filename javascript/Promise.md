@@ -19,3 +19,4 @@ promise.then(function(data){
 ### 2.2 宏任务与微任务
 
 Creating a new branch is quick & simple.
+Creating a new branch is quick & simple.
