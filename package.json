@@ -1,0 +1,22 @@
+{
+    "name": "front-end-development",
+    "version": "1.0.0",
+    "description": "前端开发学习记录",
+    "main": "merge.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HENRLYLIU/front-end-development.git"
+    },
+    "author": "liuji",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/HENRLYLIU/front-end-development/issues"
+    },
+    "homepage": "https://github.com/HENRLYLIU/front-end-development#readme",
+    "dependencies": {
+        "mockjs": "^1.1.0"
+    }
+}
